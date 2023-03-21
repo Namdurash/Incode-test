@@ -8,7 +8,7 @@ After you like the character you can see in the top bar counters which show how 
 
 1. Clone this repository **(git clone https://github.com/Namdurash/Incode-test)**
 2. Install all yarn packages **(yarn install)**
-3. Install pods **(cd ios && pod install)** // Only if you want to launch app on iOS.
+3. Install pods **(cd ios && pod install)** *Only if you want to launch app on iOS.*
 4. Run script **"start-no-cache"**
 5. Run one of the following script **"ios"** or **"android"**
 
