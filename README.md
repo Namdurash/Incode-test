@@ -1,4 +1,4 @@
-# SW Character Library
+# SW Characters Library
 
 The SW Character Library is a mobile app that provides information about Star Wars characters.
 In this app you can find a lot of characters and their information, also you can add any character to your favourites.
